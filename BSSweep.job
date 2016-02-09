@@ -1,0 +1,13 @@
+#!/bin/bash
+#BSUB -J BSWEEP
+#BSUB -e bsweep.err
+#BSUB -o bsweep.out
+#BSUB -B
+#BSUB -N 
+#BSUB -u olivella@miami.edu
+#BSUB -W 04:00
+#BSUB -q general
+#BSUB -n 400
+module load intel
+module load openmpi
+mpiexec ./BootstrapParamSweep.R FALSE

@@ -1,0 +1,25 @@
+BartDemo.ps (text/plain; charset=US-ASCII) 264563 bytes.
+BartIllustration.R (text/plain; charset=US-ASCII) 5113 bytes.
+BartInteractionPlots.job (text/plain; charset=US-ASCII) 275 bytes.
+BartPlotObjects.RData (application/x-rlang-transport) 6219876 bytes.
+BartPlotObjectsInter.RData (application/x-rlang-transport) 2385887 bytes.
+BootAnalysis.R (text/plain; charset=US-ASCII) 1342 bytes.
+BootstrapParamSweep.R (text/plain; charset=US-ASCII) 3330 bytes.
+Both.ps (text/plain; charset=US-ASCII) 9225 bytes.
+BSParamSweep.csv (text/plain; charset=US-ASCII) 3958 bytes.
+BSSweep.job (text/plain; charset=US-ASCII) 236 bytes.
+CatVariablesRef.ps (text/plain; charset=US-ASCII) 15106 bytes.
+ContVariablesRef.ps (text/plain; charset=US-ASCII) 21553 bytes.
+countriesNelda.csv (text/plain; charset=US-ASCII) 30746 bytes.
+DataProcessing.R (text/plain; charset=US-ASCII) 5397 bytes.
+ElectoralMalpracticeDataset.csv (text/plain; charset=US-ASCII) 9314 bytes.
+ExtValidationPlots.R (text/plain; charset=US-ASCII) 9765 bytes.
+FraudDatasetTest.csv (text/plain; charset=US-ASCII) 15261 bytes.
+FraudDatasetTrain.csv (text/plain; charset=US-ASCII) 74995 bytes.
+FraudScoreIRT.R (text/plain; charset=US-ASCII) 2003 bytes.
+FullBart.RData (application/x-rlang-transport) 2322107 bytes.
+FullData.RData (application/x-rlang-transport)  skipped because the total size of the download bundle exceeded the limit of 10485760 bytes.
+GenErrorAuxFunc.R (text/plain; charset=US-ASCII)  skipped because the total size of the download bundle exceeded the limit of 10485760 bytes.
+GenErrorBootContext.job (text/plain; charset=US-ASCII)  skipped because the total size of the download bundle exceeded the limit of 10485760 bytes.
+GenErrorBootContext.R (type/x-r-syntax)  skipped because the total size of the download bundle exceeded the limit of 10485760 bytes.
+GenErrorBootForen.job (text/plain; charset=US-ASCII)  skipped because the total size of the download bundle exceeded the limit of 10485760 bytes.

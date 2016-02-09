@@ -1,0 +1,14 @@
+#!/bin/bash
+#BSUB -J BARTPLOTINT
+#BSUB -o BARTPLOTINT.out
+#BSUB -e BARTPLOTINT.err
+#BSUB -B
+#BSUB -N 
+#BSUB -u olivella@miami.edu
+#BSUB -W 24:00
+#BSUB -R 'rusage[mem=192000]'
+#BSUB -q bigmem
+#BSUB -n 2
+module load intel
+module load openmpi
+mpiexec ./InteractionPlots.R FALSE
